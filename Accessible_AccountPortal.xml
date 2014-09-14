@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<topic docType="TOPIC" template="CONC" xml:space="preserve">
+
+<title>Microsoft खाते बिलिंगसाठी सुलभता वैशिष्ट्ये</title>
+
+<para>Microsoft Windows मधील सुलभता वैशिष्ट्ये आणि उपयुक्ततांव्यतिरिक्त, खालील वैशिष्ट्ये Microsoft खाते पोर्टलला अपंगत्व असलेल्या लोकांसाठी अधिक ऍक्सेस करण्यायोग्य करतात:</para>
+<list type="UNORDERED" marker_style="disc">
+    <list_item type="detail">कीबोर्ड शॉर्टकट्स वापरणे</list_item>
+    <list_item type="detail">पृष्ठे उच्च-कॉन्ट्रास्ट मध्ये पाहा</list_item>
+</list>
+<para><include_content file="commonContent_General.xml" id="US_ONLY"/></para>
+
+<para>कीबोर्ड शॉर्टकट्स वापरणे<br/> Microsoft खाते पोर्टलमध्ये कीबोर्ड शॉर्टकट्स वापरून, आपण खालील सामाईक कार्ये द्रुतपणे पूर्ण करू शकता.</para>
+
+<para><bold>नोट</bold>: डिफॉल्टनुसार, कीबोर्ड शॉर्टकट्सकरिता Mozilla Firefox ब्राउझर TAB कळ चा वापर करण्यास समर्थन देत नाही. TAB कळ करिता समर्थन चालू करण्याविषयीच्या माहितीसाठी, कृपया Firefox मदतीचा संदर्भ घ्या.</para>
+
+<table>
+    <table_row>
+        <table_head_cell>हे करण्यासाठी</table_head_cell>
+        <table_head_cell>हा कीबोर्ड शॉर्टकट वापरा</table_head_cell>
+    </table_row>
+    <table_row>
+        <table_cell>सद्य दृश्य ताजे करा.</table_cell>
+        <table_cell>F5</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>चेक बॉक्स निवडा किंवा साफ करा.</table_cell>
+        <table_cell>SPACE</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>पुढील आयटम निवडा.</table_cell>
+        <table_cell>TAB</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>मागील आयटम निवडा.</table_cell>
+        <table_cell>SHIFT+TAB</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>निवडलेल्या आयटमकरिता क्रिया करा.</table_cell>
+        <table_cell>ENTER</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>दृश्यांमध्ये, आयटम यादीद्वारे नॅव्हिगेट करा.</table_cell>
+        <table_cell>बाण कळी</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>दृश्यांमध्ये, एकाधिक पृष्ठांद्वारे नॅव्हिगेट करा.</table_cell>
+        <table_cell>PAGE UP किंवा PAGE DOWN</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>दृश्यांमध्ये, सद्य पृष्ठावरील प्रथम किंवा अंतिम आयटम नॅव्हिगेट करा.</table_cell>
+        <table_cell>HOME किंवा END</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>दृश्यांमध्ये, यादीमधील प्रथम किंवा अंतिम आयटम नॅव्हिगेट करा.</table_cell>
+        <table_cell>CTRL+HOME किंवा CTRL+END</table_cell>
+    </table_row>
+    <table_row>
+        <table_cell>Internet Explorer मधील पर्याय डायलॉग बॉक्स उघडा, जिथे आपण सुलभता सेटिंग्ज बदलू शकता.</table_cell>
+        <table_cell>ALT+T, आणि त्यानंतर O दाबा</table_cell>
+    </table_row>
+</table><br/>
+
+<para>उच्च-कॉन्ट्रास्ट मध्ये पृष्ठे पाहा<br/> आपण Microsoft Internet Explorer वापरत असल्यास, आपण पृष्ठे वाचणे सुलभ करण्यासाठी Microsoft खाते पोर्टलमध्ये ती उच्च-कॉन्ट्रास्ट मध्ये पाहू शकता.<br/> उच्च-कॉन्ट्रास्ट मध्ये पृष्ठे पाहण्यासाठी, फक्त या चरणांचे अनुसरण करा:</para>
+<list type="ORDERED">
+    <list_item type="detail">Internet Explorer मध्ये, <bold>Tools</bold> मेनू, <bold>इंटरनेट पर्यायवर क्लिक करा</bold>.</list_item>
+    <list_item type="detail"><include_content file="commonContent_General.xml" id="INETCPL_ACCESSIBILITY"/></list_item>
+    <list_item type="detail">निवडा <bold>वेबपृष्ठावर निर्दिष्ट केलेले रंग दुर्लक्षित करा</bold> चेक बॉक्स, <bold>वेबपृष्ठावर निर्दिष्ट केलेली फाँट शैली दुर्लक्षित करा</bold> चेक बॉक्स, आणि <bold>वेबपृष्ठावर निर्दिष्ट केलेले फाँट आकार दुर्लक्षित करा</bold> बॉक्स चेक करा, आणि नंतर <bold>ठीक आहे क्लिक करा</bold>.</list_item>
+</list>
+
+<para>जेव्हा आपण दुसरे वेब ब्राउझर वापरत असता तेव्हा उच्च-कॉन्ट्रास्ट मोडमधील पृष्ठे पाहण्याविषयी माहितीसाठी, त्या ब्राउझरच्या मदतीचा सल्ला घ्या. Microsoft द्वारे बनविलेल्या, सर्वाधिक ऑपरेटिंग सिस्टमसह, याशिवाय उच्च-कॉन्ट्रास्ट मोडकरिता सेटिंग्ज समाविष्ट करा; अधिक माहितीसाठी, कृपया आपण वापरता त्या ऑपरेटिंग सिस्टमकरिता मदत दस्तऐवजीकरणाचा सल्ला घ्या.</para>
+
+<links type="RELATED_TOPICS"><link href="Accessible_Definition"></link> <link href="Accessible_AccountPortal_Help"></link> <link href="Accessible_ProductService"></link></links>
+
+</topic>
