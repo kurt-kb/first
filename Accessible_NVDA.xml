@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Accessible_NVDA is only needed in English (/default/). Please do not translate to other languages -->
+<topic docType="TOPIC" template="CONC" xml:space="preserve">  
+
+  <title>PDF इन्वोइससाठी प्रवेश वैशिष्ठ्ये</title>
+  
+  <para>ही प्रक्रिया Windows 8.0 किंवा नंतरच्या, Adobe Acrobat Reader XI, आणि NVDA 2013.1 किंवा नंतरच्या ला लागू होते.  ते जुन्या आवृत्तींवर सुद्धा काम करु शकेल,पान त्याची चाचणी केलेली नाही.</para>
+
+  <para>NVDA चालू असल्याची खात्री करा.</para>
+  
+  <para>Adobe Acrobat सुरु करा आणि इच्छित PDF फाईल उघडा.</para>
+  
+  <para>एक "Reading Untagged Document" संदेश दिसून येईलजर NVDA चालू असेल</para>
+  
+  <para>ह्या संवादात खालील गोष्टींचा समावेश आहे:</para>
+  
+  <list type="ORDERED">
+    <list_item type="detail">टॅगिंग प्रक्रिया वर्णनीत करणारा संदेश.</list_item>
+    <list_item type="detail">“Reading Order” नावाचा एक कॉम्बो बॉक्स: ज्यात तीन पर्याय आहेत: <br/> दस्तावेजातून वाचन ऑर्डर <br/> वाचन ऑर्डर डावीकडून उजवी कडे, वरून खाली<br/> रॉ प्रिंट स्ट्रीम मध्ये वाचन ऑर्डर वापरा<br/> Alt+r की केंद्र कॉम्बो बॉक्स वर हलवते.
+    </list_item>
+    <list_item type="detail">दोन रेडीओ बटणे:<br/> संपूर्ण दस्तावेज वाचणे <br/> फक्त दृश्य पाने वाचा <br/> Alt+d की "Read the entire document" निवडते आणि Alt+p की "Read the currently visible pages only" निवडते.
+    </list_item>
+    <list_item type="detail">"Always use the settings from the Reading Preferences (Do not show this dialog again)" लेबल असलेला एक चेक बॉक्स  Alt+a चेक बॉक्सला टॉगल करतो.</list_item>
+    <list_item type="detail">एक Start बटन.  Alt+s किंवा Enter की नी ते बटन दाबता येते.</list_item>
+    <list_item type="detail">एक Cancel बटन.  Alt+c ते बटन दाबते.</list_item>
+  </list>
+  <para>आम्ही "Infer reading order from document (recommended)" आणि "Read entire document" निवडणे सुचवतो.</para>
+  
+  <para>Acrobat दस्तावेजात टॅग्स जोडेल आणि प्रगतीचे वर्णन करेल.  जेव्हां ते पूर्ण होईल, तेव्हां NVDAचे वाचन आदेश (ब्राउज मोड अदेशांसह) आपल्याला दस्तावेजातील टेक्स्ट, टेबल्स, आणि हायपरलिंक्स वाचायला देतील.  तसेच, Tab आणि Shift+Tab हायपरलिंक्स मध्ये हालचाल करायला देतील.</para>
+  
+  <para><bold>मला अजून कुठे शिकता येईल?</bold></para>
+  <para>Acrobat आणि त्याच्या प्रवेश विषयी अधिक जाणून घेण्यासाठी, पहा <link href="http://www.adobe.com/accessibility/products/reader.html">http://www.adobe.com/accessibility/products/reader.html</link></para>
+  <para>NVDA विषयी अधिक जाणून घेण्यासाठी, पहा <link href="http://www.nvaccess.org/">http://www.nvaccess.org/</link></para>
+</topic>
